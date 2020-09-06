@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\imagemQueSegueOMouse\imagemQueSegueOMouse\bin\Debug\imagemQueSegueOMouse.exe.config
+C:\Users\User\source\repos\imagemQueSegueOMouse\imagemQueSegueOMouse\bin\Debug\imagemQueSegueOMouse.exe
+C:\Users\User\source\repos\imagemQueSegueOMouse\imagemQueSegueOMouse\bin\Debug\imagemQueSegueOMouse.pdb
+C:\Users\User\source\repos\imagemQueSegueOMouse\imagemQueSegueOMouse\obj\Debug\imagemQueSegueOMouse.csprojAssemblyReference.cache
+C:\Users\User\source\repos\imagemQueSegueOMouse\imagemQueSegueOMouse\obj\Debug\imagemQueSegueOMouse.Form1.resources
+C:\Users\User\source\repos\imagemQueSegueOMouse\imagemQueSegueOMouse\obj\Debug\imagemQueSegueOMouse.Properties.Resources.resources
+C:\Users\User\source\repos\imagemQueSegueOMouse\imagemQueSegueOMouse\obj\Debug\imagemQueSegueOMouse.csproj.GenerateResource.cache
+C:\Users\User\source\repos\imagemQueSegueOMouse\imagemQueSegueOMouse\obj\Debug\imagemQueSegueOMouse.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\imagemQueSegueOMouse\imagemQueSegueOMouse\obj\Debug\imagemQueSegueOMouse.exe
+C:\Users\User\source\repos\imagemQueSegueOMouse\imagemQueSegueOMouse\obj\Debug\imagemQueSegueOMouse.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imagemQueSegueOMouse", "imagemQueSegueOMouse\imagemQueSegueOMouse.csproj", "{44664762-64E8-499D-A1F3-3AF9DAED7797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44664762-64E8-499D-A1F3-3AF9DAED7797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44664762-64E8-499D-A1F3-3AF9DAED7797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44664762-64E8-499D-A1F3-3AF9DAED7797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44664762-64E8-499D-A1F3-3AF9DAED7797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DDBB808-7D7B-4F28-8E73-6F8ACCB6C139}
+	EndGlobalSection
+EndGlobal
